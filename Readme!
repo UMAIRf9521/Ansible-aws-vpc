@@ -1,0 +1,11 @@
+-> Creating a Security Group for the load balancer and EC2 instances with Playbooks
+-> Add Nginx EC2 instances under the Load balancer
+-> Extracting the private IPs of our EC2 instances in a file for further use.
+-> Creating Dynamic Inventory
+-> Preparing Ansible Global Config
+-> Playbooks for Setting up Services in EC2 Instances
+-> tomcat.yaml
+-> Nginx.yaml
+-> Memcached.yaml
+-> MySQL.yaml
+-> Tomcat.ya
