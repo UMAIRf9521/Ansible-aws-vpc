@@ -1,3 +1,5 @@
+Playbook Execution Flow
+====================
 -> Creating a Security Group for the load balancer and EC2 instances with Playbooks
 -> Add Nginx EC2 instances under the Load balancer
 -> Extracting the private IPs of our EC2 instances in a file for further use.
@@ -8,5 +10,6 @@
 -> Nginx.yaml
 -> Memcached.yaml
 -> MySQL.yaml
--> Tomcat.ya
+-> Tomcat.yaml
+-> Site.yaml
 https://riteshthedevops.hashnode.dev/cloud-automation-with-ansible-complete-3-tier-webapp-stack
